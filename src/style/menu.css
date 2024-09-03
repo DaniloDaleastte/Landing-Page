@@ -43,6 +43,10 @@
 
 }
 
+.dish-image {
+    width: 250px;  
+}
+
 .dish-description {
     color: 434343;
     text-align: center;

@@ -48,6 +48,7 @@
 }
 
 #banner {
+    width: 50px;
     display: flex;
     align-items: start;
     justify-content:end;
@@ -56,9 +57,13 @@
 }
 
 #banner img {
-    height: 100%;
     width: fit-content;
+    height: 900px;
+    position: absolute;
+    right: 20px;
 }
+
+
 
 .shape {
     background-color: #ffe8b4;
